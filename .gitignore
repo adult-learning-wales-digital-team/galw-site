@@ -1,2 +1,4 @@
 galw-website/node_modules/
 galw-website/_site/
+galw-website/dist/
+galw-website/.cache/
