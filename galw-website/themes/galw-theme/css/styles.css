@@ -451,3 +451,18 @@ a[aria-current='page'] {
 .rss-icon {
 	width: 44px;
 }
+
+.site-intro picture {
+    width: 280px;
+    display: block;
+    margin: 0 auto;
+}
+
+.site-intro picture:has(> [loading="lazy"]) {
+    border-radius: 3px;
+}
+
+.site-intro .galw-logo {
+    width: 100%;
+    height: auto;
+}
