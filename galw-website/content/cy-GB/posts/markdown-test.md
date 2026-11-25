@@ -1,29 +1,27 @@
 ---
-title: Markdown testa
-seo:
-  slug: markdown-testa
+title: Markdown test
 date: 2026-06-05
 tags:
   - tag4
   - tag5
 ---
 
-**Innehåll:**
+**Contents:**
 
 [[toc]]
 
-Lorem ipsum dolor **sit amet**, consectetur adipiscing elit (C). Sed nec __risus elementum__, tempor tortor non, bibendum libero. Suspendisse potenti. Vivamus dapibus *tortor neque*, sed aliquet lacus _elementum nec_. Morbi vel ligula vitae leo placerat sollicitudin quis at eros. Pellentesque tristique mi a tortor auctor, sit amet elementum augue pulvinar. Donec non orci in ~~ipsum mollis~~ tempor. Integer libero est, H~2~O pharetra ++vitae++ facilisis quis 🇸🇪.
+Lorem ipsum dolor **sit amet**, consectetur adipiscing elit (C). Sed nec __risus elementum__, tempor tortor non, bibendum libero. Suspendisse potenti. Vivamus dapibus *tortor neque*, sed aliquet lacus _elementum nec_. Morbi vel ligula vitae leo placerat sollicitudin quis at eros. Pellentesque tristique mi a tortor auctor, sit amet elementum augue pulvinar. Donec non orci in ~~ipsum mollis~~ tempor. Integer libero est, H~2~O pharetra ++vitae++ facilisis quis 🇬🇧.
 
-## Citat, kod och typografi
+## Quotes, code and typography
 
 > Maecenas vel quam id eros tristique sollicitudin. Nunc tincidunt orci malesuada, vehicula mauris ut, sollicitudin lacus. Quisque eget vestibulum quam. 
 
 Aenean ac tincidunt felis (r). Fusce eu ==arcu blandit==, consectetur odio ullamcorper, maximus erat (R). Fusce aliquam sapien a commodo aliquet. Phasellus placerat sagittis euismod. Curabitur vitae est id nunc ornare --- scelerisque in vitae nisl. In non mi leo...
 
-<!-- FM:Snippet:Start data:{"id":"Quote","fields":[{"name":"quote","value":"Maecenas vel quam id eros tristique sollicitudin. Nunc tincidunt orci malesuada, vehicula mauris ut, sollicitudin lacus. Quisque eget vestibulum quam."},{"name":"author","value":"Scott Evans"},{"name":"cite","value":"Hemsida"},{"name":"url","value":"https://scott.ee"}]} -->
+<!-- FM:Snippet:Start data:{"id":"Quote","fields":[{"name":"quote","value":"Maecenas vel quam id eros tristique sollicitudin. Nunc tincidunt orci malesuada, vehicula mauris ut, sollicitudin lacus. Quisque eget vestibulum quam."},{"name":"author","value":"Scott Evans"},{"name":"cite","value":"Website"},{"name":"url","value":"https://scott.ee"}]} -->
 <blockquote>
   <p>Proin sit amet neque vitae leo posuere pellentesque vel non augue. Sed efficitur ipsum neque, non gravida ipsum vestibulum eget.</p>
-  <figcaption>— Scott Evans, <cite><a href="https://scott.ee">Hemsida</a></cite></figcaption>
+  <figcaption>— Scott Evans, <cite><a href="https://scott.ee">Website</a></cite></figcaption>
 </blockquote>
 <!-- FM:Snippet:End -->
 
@@ -41,7 +39,7 @@ Donec tincidunt mauris id metus iaculis tempor. Proin sit amet neque vitae leo p
 
 ---
 
-## Listor
+## Lists
 
 ### Ordered
 
@@ -53,52 +51,52 @@ Donec tincidunt mauris id metus iaculis tempor. Proin sit amet neque vitae leo p
 1. You can use sequential numbers...
 1. ...or keep all the numbers as `1.`
 
-Starta numrering med offset:
+Start numbering with offset:
 
 57. foo
 1. bar
 
 ### Unordered
 
-+ Skapa en lista genom att börja en rad med `+`, `-`, eller `*`
-+ Underlistor skapas genom att dra in 2 mellanslag:
-  - Byte av markörtecken tvingar ny liststart:
++ Create a list by starting a line with `+`, `-`, or `*`
++ Sub-lists are made by indenting 2 spaces:
+  - Marker character change forces new list start:
     * Ac tristique libero volutpat at
     + Facilisis in pretium nisl aliquet
     - Nulla volutpat aliquam velit
-+ Superlätt!
++ Very easy!
 
 ---
 
-## Meddelanden och länkar
+## Notices and links
 
-<div class="notice notice-notice">Allmänt meddelande</div>
+<div class="notice notice-notice">General notice</div>
 
-<div class="notice notice-warning">Varnings meddelande</div>
+<div class="notice notice-warning">Warning notice</div>
 
-<div class="notice notice-error">Fel meddelande</div>
+<div class="notice notice-error">Error notice</div>
 
-### Rubrik nivå 3
+### Heading level 3
 
 Cras quis sollicitudin eros [link with title](https://scott.ee "title text!"){target="_blank"}. Fusce eget velit quis nulla pharetra eleifend id vitae nisl. Aenean [normal link](https://scott.ee) vitae nunc semper porta. Donec porta leo vitae massa accumsan consequat. Praesent quis sodales orci, ut elementum quam. Phasellus ultrices lectus in tempus varius. Duis est nulla, imperdiet dapibus ultricies non, hendrerit non mauris.
 
-#### Rubrik nivå 4
+#### Heading level 4
 
 Aenean ac tincidunt felis. Fusce eu arcu blandit, consectetur odio ullamcorper, maximus erat. Fusce aliquam sapien a commodo aliquet. Phasellus placerat sagittis euismod. Curabitur vitae est id nunc ornare scelerisque in vitae nisl. In non mi leo.
 
 https://github.com/scottsweb/elva
 
-## Tabeller
+## Tables
 
-| Titel  | Beskrivning |
+| Title  | Description |
 | ------ | ----------- |
 | Fuseu  | Aenean ac tincidunt felis. Fusce eu arcu blandit, consectetur odio ullamcorper. |
 | Maxim  | Fusce eu arcu blandit, consectetur odio ullamcorper, maximus erat. |
 | Odio   | Praesent quis sodales orci. |
 
-Högerjusterade kolumner
+Right aligned columns
 
-| Titel  | Beskrivning |
+| Title  | Description |
 | -------| -----------:|
 | Fuseu  | Aenean ac tincidunt felis. Fusce eu arcu blandit, consectetur odio ullamcorper. |
 | Maxim  | Fusce eu arcu blandit, consectetur odio ullamcorper, maximus erat. |

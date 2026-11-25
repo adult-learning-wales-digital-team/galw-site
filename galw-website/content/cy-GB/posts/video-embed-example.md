@@ -1,20 +1,14 @@
 ---
-title: Bildinbäddnings exempel
-seo:
-  slug: bildinbaddnings-exempel
-date: 2023-08-03
+title: Video embed example
+date: 2023-08-01
 tags:
   - tag2
-  - tag3
+  - tag4
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed risus consectetur, gravida justo ac, convallis leo. Duis et nisi ullamcorper, auctor quam vel, sollicitudin ligula. Vestibulum faucibus metus nec diam egestas, sed auctor elit rhoncus. Duis a velit vel lacus placerat porta ac vitae urna. Etiam a dictum tortor, id venenatis eros. Donec vehicula ex ut quam porta auctor. Suspendisse at purus enim. Donec sed pharetra nisl.
 
-![Båten Stockholms Ström 2 glider över vattnet med Stockholm i fjärran.](/assets/img/sv.jpg)
-
-``` markdown
-![Båten Stockholms Ström 2 glider över vattnet med Stockholm i fjärran.](/assets/img/sv.jpg)
-```
+https://www.youtube.com/watch?v=vbUud4O8Fcc
 
 Nulla vehicula condimentum neque quis tincidunt. Phasellus a dignissim urna. In vitae pulvinar orci, et feugiat orci. Morbi sit amet velit sit amet ex tincidunt vestibulum. Ut eros sem, aliquet quis ultrices vestibulum, lobortis eu quam. Aenean nec urna suscipit, iaculis ipsum sit amet, vestibulum orci. Phasellus feugiat eu dolor quis efficitur. Aenean non luctus diam. Aenean egestas lectus est. In sagittis tellus placerat tincidunt semper. Nullam mattis nisi massa, vel venenatis turpis suscipit ac. Maecenas maximus consequat ligula, placerat sodales ipsum commodo a.
 

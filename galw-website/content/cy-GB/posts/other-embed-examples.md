@@ -1,5 +1,5 @@
 ---
-title: Andra inbäddningsexempel
+title: Other embed examples
 date: 2023-07-31
 tags:
   - tag1
@@ -7,7 +7,7 @@ tags:
   - tag5
 ---
 
-**Innehåll:**
+**Contents:**
 
 [[toc]]
 
@@ -36,10 +36,10 @@ https://www.ted.com/talks/dorcas_naishorua_lessons_from_people_already_adapting_
 
 Aenean ullamcorper egestas libero, non consequat enim mollis et. Aliquam ut lectus ac ligula tempus molestie. Donec cursus, libero cursus efficitur aliquam, eros purus porta purus, et scelerisque est erat. 
 
-https://www.openstreetmap.org/#map=11/59.3132/18.0155
+https://www.openstreetmap.org/#map=11/51.4899/-0.1257
 
 ```markdown
-https://www.openstreetmap.org/#map=11/59.3132/18.0155
+https://www.openstreetmap.org/#map=11/51.4899/-0.1257
 ```
 
 ## Twitter
@@ -56,28 +56,28 @@ https://x.com/jack/status/20
 
 Nulla vehicula condimentum neque quis tincidunt. Phasellus a dignissim urna. In vitae pulvinar orci, et feugiat orci. Morbi sit amet velit sit amet ex tincidunt vestibulum.
 
-https://www.tiktok.com/@nadja_spt/video/7372550534596742433
+https://www.tiktok.com/@gioacchino.london.uk/video/7405992123750812961
 
 ```markdown
-https://www.tiktok.com/@nadja_spt/video/7372550534596742433
+https://www.tiktok.com/@gioacchino.london.uk/video/7405992123750812961
 ```
 
 ## SoundCloud
 
 Aenean ullamcorper egestas libero, non consequat enim mollis et. Aliquam ut lectus ac ligula tempus molestie. Donec cursus, libero cursus efficitur aliquam, eros purus porta purus, et scelerisque est. 
 
-https://soundcloud.com/hybris/klara-keller-sad-thinking-of-you
+https://soundcloud.com/colourmewednesday/purge-your-inner-tory
 
 ```markdown
-https://soundcloud.com/hybris/klara-keller-sad-thinking-of-you
+https://soundcloud.com/colourmewednesday/purge-your-inner-tory
 ```
 
 ## Spotify
 
 Aenean ullamcorper egestas libero, non consequat enim mollis et. Aliquam ut lectus ac ligula tempus molestie. Donec cursus, libero cursus efficitur aliquam, eros purus porta purus, et scelerisque. 
 
-https://open.spotify.com/track/22auw1DYQlYh5XgKv5FtNx
+https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9
 
 ```markdown
-https://open.spotify.com/track/22auw1DYQlYh5XgKv5FtNx
+https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9
 ```
