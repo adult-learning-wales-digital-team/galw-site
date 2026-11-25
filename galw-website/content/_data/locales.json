@@ -6,7 +6,7 @@
         "locale": "en-gb",
         "default": true
     },
-    "cy-GB": {
+    "cy": {
         "label": "Cymraeg",
         "locale": "cy-GB",
         "shorthand": "CY",
