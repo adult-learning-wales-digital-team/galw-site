@@ -21,61 +21,69 @@ eleventyNavigation:
 
 <form action="https://api.web3forms.com/submit" method="POST" id="form" style="max-width: 65ch;">
   <fieldset>
-    <legend>Contact Form</legend>
+    <legend>Ffurflen Gyswllt</legend>
+
     <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY_HERE" />
-    <input type="hidden" name="subject" value="New Submission from Web3Forms" />
+    <input type="hidden" name="subject" value="Neges Newydd o Ffurflen Gyswllt GALW" />
     <input
       type="hidden"
       name="redirect"
       value="https://web3forms.com/success"
     />
-    <input type="checkbox" name="botcheck" id="" style="display: none;" />
+
+    <input type="checkbox" name="botcheck" style="display: none;" />
+
     <div>
-      <label for="name">Full Name</label><br />
+      <label for="name">Enw Llawn</label><br />
       <input
         type="text"
         name="name"
         id="name"
-        placeholder="John Doe"
+        placeholder="Siôn Jones"
         required
       />
       <br /><br />
     </div>
+
     <div>
-      <label for="email">Email Address</label><br />
+      <label for="email">Cyfeiriad E-bost</label><br />
       <input
         type="email"
         name="email"
         id="email"
-        placeholder="you@company.com"
+        placeholder="chi@cwmni.cymru"
         required
-      /><br /><br />
+      />
+      <br /><br />
     </div>
+
     <div>
-      <label for="phone">Phone Number</label>
+      <label for="phone">Rhif Ffôn</label>
       <br />
       <input
         type="text"
         name="phone"
         id="phone"
-        placeholder="+1 (555) 1234-567"
+        placeholder="01234 567890"
         required
-      /><br /><br />
+      />
+      <br /><br />
     </div>
+
     <div>
-      <label for="message">Your Message</label>
+      <label for="message">Eich Neges</label>
       <br />
       <textarea
         rows="5"
         name="message"
         id="message"
-        placeholder="Your Message"
+        placeholder="Ysgrifennwch eich neges yma..."
         required
-        style = "width: 100%"
-      ></textarea
-      ><br /><br />
+        style="width: 100%"
+      ></textarea>
+      <br /><br />
     </div>
 
-    <button type="submit">Send Message</button>
+    <button type="submit">Anfon Neges</button>
   </fieldset>
 </form>
