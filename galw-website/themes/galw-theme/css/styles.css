@@ -466,3 +466,9 @@ a[aria-current='page'] {
     width: 100%;
     height: auto;
 }
+
+.site-logo picture:has(> [loading="lazy"]) {
+	border-radius: unset;
+	background: unset;
+	width: 130px;
+}

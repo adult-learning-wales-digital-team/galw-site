@@ -1,11 +1,11 @@
 {
 	"meta": {
-		"title": "elva",
+		"title": "GALW",
 		"rssTitle": "RSS Feed",
 		"jsonTitle": "JSON Feed",
 		"blogrollTitle": "Blogroll",
-		"description": "A multilingual, clean, green, 11ty starter theme",
-		"opengraphDefaultAlt": "An English description of the default opengraph image"
+		"description": "Growth Academy for Life & Work",
+		"opengraphDefaultAlt": "GALW - Growth Academy for Life & Work"
 	},
 	"header": {
 		"skipLink": "Skip to content",
