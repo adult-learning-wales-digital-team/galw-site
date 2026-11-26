@@ -8,6 +8,7 @@ seo:
   description: Growth Academy for Life & Work
 ---
 
-A multilingual, clean, green, <a href="https://www.11ty.dev/" target="_blank" rel="noopener">11ty starter theme</a>. Elva provides solid foundations for your next web project.
+**GALW**  
+Growth Academy for Life & Work
 
-Demo available in [English](/) and [Swedish](/sv/).{class="subtle"}
+Available in [English](/) and [Welsh](/cy/).{class="subtle"}
