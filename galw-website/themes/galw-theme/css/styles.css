@@ -452,6 +452,8 @@ a[aria-current='page'] {
 	width: 44px;
 }
 
+/* GAWL Specific Overrides */
+
 .site-intro picture {
     width: 280px;
     display: block;
@@ -470,5 +472,12 @@ a[aria-current='page'] {
 .site-logo picture:has(> [loading="lazy"]) {
 	border-radius: unset;
 	background: unset;
-	width: 130px;
+
+}
+
+@media (min-width: 600px) {
+    .site-logo {
+        position: static;
+        top: auto;
+    }
 }
