@@ -33,5 +33,9 @@
     "search": {
         "placeholder": "Chwilio",
         "submit": "Chwilio"
+    },
+    "alw": {
+        "name": "Addysg Oedolion Cymru",
+        "url": "https://www.addysgoedolion.cymru/"
     }
 }

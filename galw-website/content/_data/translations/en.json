@@ -33,5 +33,9 @@
 	"search": {
 		"placeholder": "Search",
 		"submit": "Go"
-	}
+	},
+    "alw": {
+        "name": "Adult Learning Wales",
+        "url": "https://www.adultlearning.wales/"
+    }
 }
