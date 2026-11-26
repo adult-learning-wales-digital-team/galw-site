@@ -455,13 +455,14 @@ a[aria-current='page'] {
 /* GAWL Specific Overrides */
 
 .site-intro picture {
-    width: 280px;
+    max-width: 500px;
     display: block;
     margin: 0 auto;
 }
 
 .site-intro picture:has(> [loading="lazy"]) {
     border-radius: 3px;
+	background-color: unset;
 }
 
 .site-intro .galw-logo {
