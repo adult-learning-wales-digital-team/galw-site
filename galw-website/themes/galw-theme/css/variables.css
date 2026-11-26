@@ -165,3 +165,21 @@
 		--scroll-position: 100;
 	}
 }
+
+
+/* GALW Variables */
+:root {
+    --galw-blue: #306392;
+    --galw-blue-dark: #031d3f;
+    --galw-yellow-light: #fdfdfc;
+    --galw-gold: #f2b705;
+
+    --background: #fafafa;
+    --background-soft: var(--galw-yellow-light);
+
+    --foreground: var(--galw-blue-dark);
+    --link: var(--galw-blue);
+    --link-hover: #060146;
+
+    --focus-outline: 0.3ch solid var(--galw-gold);
+}
