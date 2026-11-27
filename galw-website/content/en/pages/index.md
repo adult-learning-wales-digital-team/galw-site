@@ -8,4 +8,3 @@ seo:
   description: Growth Academy for Life & Work
 ---
 
-Available in [English](/) and [Welsh](/cy/).{class="subtle"}

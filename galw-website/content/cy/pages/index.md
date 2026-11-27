@@ -8,4 +8,3 @@ seo:
   description: Academi Twfiant ar gyfer Bywyd a Gwaith
 ---
 
-Ar gael yn [Saesneg](/) ac yn [Gymraeg](/cy/).{class="subtle"}
