@@ -279,7 +279,7 @@ body {
 }
 
 #content {
-	padding: var(--space-m-3xl);
+	padding: var(--space-s-l);
 	flex-grow: 1;
 }
 
@@ -481,4 +481,11 @@ a[aria-current='page'] {
         position: static;
         top: auto;
     }
+}
+
+.footer {
+	justify-content: center;
+}
+.footer p {
+	max-width: unset;
 }
