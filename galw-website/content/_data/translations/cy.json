@@ -30,6 +30,7 @@
     "light": "Golau",
     "lightDarkToggle": "Newid rhwng thema olau a thywyll",
     "footer": "Y flwyddyn yw {{ year }}.",
+    "footer-registered-company": "Mae GALW yn enw masnachu HYFFORDDIANT AOC CYFYNGEDIG / ALW TRAINING LIMITED, sydd wedi'i gofrestru yng Nghymru a Lloegr o dan rif cwmni 16808912.",
     "search": {
         "placeholder": "Chwilio",
         "submit": "Chwilio"

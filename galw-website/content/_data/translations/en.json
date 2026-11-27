@@ -30,6 +30,7 @@
 	"light": "Light",
 	"lightDarkToggle": "Toggle dark/light theme",
 	"footer": "The year is {{ year }}.",
+	"footer-registered-company": "GALW is a trading name of HYFFORDDIANT AOC CYFYNGEDIG / ALW TRAINING LIMITED, registered in England and Wales under company number 16808912.",
 	"search": {
 		"placeholder": "Search",
 		"submit": "Go"
