@@ -1,11 +1,11 @@
 ---
 title: What we offer
 date: 2026-11-26
-draft: false
-eleventyNavigation:
-  key: teaching
-  title: Teaching
-  order: 2
+draft: true
+# eleventyNavigation:
+#   key: teaching
+#   title: Teaching
+#   order: 2
 ---
 
 ## Leadership and Management Development:

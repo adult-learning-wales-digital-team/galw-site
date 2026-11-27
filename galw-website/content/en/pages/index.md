@@ -4,7 +4,7 @@ layout: home
 tags: _home
 seo:
   slug: /
-  title: GALW
+  title: GALW - Growth Academy for Life & Work
   description: Growth Academy for Life & Work
 ---
 

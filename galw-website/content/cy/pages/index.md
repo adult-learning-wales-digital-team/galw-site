@@ -4,7 +4,7 @@ layout: home
 tags: _home
 seo:
   slug: /
-  title: GALW
+  title: GALW - Academi Twfiant ar gyfer Bywyd a Gwaith
   description: Academi Twfiant ar gyfer Bywyd a Gwaith
 ---
 

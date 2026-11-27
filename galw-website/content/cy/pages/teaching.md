@@ -1,11 +1,11 @@
 ---
 title: Beth rydym yn ei gynnig
 date: 2026-11-26
-draft: false
-eleventyNavigation:
-  key: teaching
-  title: Dysgu
-  order: 2
+draft: true
+# eleventyNavigation:
+#   key: teaching
+#   title: Dysgu
+#   order: 2
 ---
 
 ## Datblygu Arweinyddiaeth a Rheolaeth
